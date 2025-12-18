@@ -66,7 +66,7 @@ text
 
 ## 🎓 Formação
 
-- 🎓 **ETEC de Itaquaquecetuba** - Técnico em Informática (2023-2025)
+- 🎓 **ETEC de Itaquaquecetuba** - Técnico em Informática (2024-2025)
 - 🏆 **Projeto de TCC:** Prato Justo - Plataforma de Doação de Alimentos
 - 📚 **Especialização:** Desenvolvimento Backend com Java e Spring Boot
 
