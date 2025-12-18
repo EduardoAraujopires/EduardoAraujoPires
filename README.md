@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Eduardo Araújo!
 
-## 🚀 Desenvolvedor Java Backend | Spring Boot Specialist
+## 🚀 Desenvolvedor Java Backend | Spring Boot 
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-Expert-orange?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Pro-6DB33F?logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Iniciante-orange?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-✓-2496ED?logo=docker&logoColor=white)
 
@@ -76,8 +76,8 @@ text
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?logo=linkedin)](https://linkedin.com/in/eduardo-araujo-dev)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?logo=gmail)](mailto:eduardo@seuemail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?logo=linkedin)](https://www.linkedin.com/in/eduardoaraujopires/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?logo=gmail)](mailto:eduaraujopires370@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Projetos-181717?logo=github)](https://github.com/EduardoAraujoPires)
 
 </div>
