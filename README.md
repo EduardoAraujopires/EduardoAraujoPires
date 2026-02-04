@@ -57,21 +57,20 @@ Autenticação JWT
 
 API REST protegida
 
-📊 Meus Estatísticas GitHub
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=EduardoAraujoPires&show_icons=true&theme=default&hide_border=true
+## 📌 Projetos em Destaque
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAraujoPires&layout=compact&theme=default&hide_border=true
+| Projeto | Tecnologias | Status |
+|---------|-------------|--------|
+| [**Prato Justo**](https://github.com/EduardoAraujoPires/TCC---Prato-Justo) | Java, Spring Boot, MySQL | ✅ Concluído |
+| [**Back-end Livraria**](https://github.com/EduardoAraujoPires/Aprendendo_Spring_Data_JPA) | Java, JDBC, Docker | 🔄 Em andamento |
+| [**Arquitetura Spring Estudo**](https://github.com/EduardoAraujoPires/arquitetura_Spring) | Java | 📚 Estudo |
 
-</div>
-📚 Meus Projetos
-Projeto	Descrição	Status
-Prato Justo	Plataforma de doação de alimentos	✅ Concluído
-Back-end Recife	Sistema de gestão municipal	🔧 Em desenvolvimento
-Projeto-DAS	Estudos de programação Java	📘 Aprendizado
-🎓 Minha Formação
-ETEC de Itaquaquecetuba
-Curso: Técnico em Informática
+
+
+
+<h1>🎓 Minha Formação </h1>
+<h1>ETEC de Itaquaquecetuba</h1
+<h1>Curso: Técnico em Informática</h1>
 
 Período: 2024 - 2025
 
@@ -102,12 +101,12 @@ Spring Cloud
 Microserviços
 
 Arquitetura de software
-
-📞 Contato
+<h2>
+📞 Contato: 11982351727
 💼 LinkedIn: Eduardo Araújo Pires
 📧 Email: eduaraujopires370@gmail.com
 🐙 GitHub: EduardoAraujoPires
-
+</h2>
 ✨ Minha Filosofia
 "Acredito que tecnologia deve ser simples, eficiente e fazer a diferença na vida das pessoas. Meu código busca sempre equilibrar qualidade técnica com impacto social."
 
