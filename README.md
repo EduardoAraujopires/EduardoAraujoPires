@@ -61,7 +61,7 @@ API REST protegida
 
 | Projeto | Tecnologias | Status |
 |---------|-------------|--------|
-| [**Prato Justo**](https://github.com/EduardoAraujoPires/TCC---Prato-Justo) | Java, Spring Boot, MySQL | ✅ Concluído |
+| [**Prato Justo**](https://github.com/EduardoAraujoPires/TCC-_-Prato-Justo) | Java, Spring Boot, MySQL | ✅ Concluído |
 | [**Back-end Livraria**](https://github.com/EduardoAraujoPires/Aprendendo_Spring_Data_JPA) | Java, JDBC, Docker | 🔄 Em andamento |
 | [**Arquitetura Spring Estudo**](https://github.com/EduardoAraujoPires/arquitetura_Spring) | Java | 📚 Estudo |
 
@@ -101,12 +101,12 @@ Spring Cloud
 Microserviços
 
 Arquitetura de software
-<h2>
+<p>
 📞 Contato: 11982351727
 💼 LinkedIn: Eduardo Araújo Pires
 📧 Email: eduaraujopires370@gmail.com
 🐙 GitHub: EduardoAraujoPires
-</h2>
+<p>
 ✨ Minha Filosofia
 "Acredito que tecnologia deve ser simples, eficiente e fazer a diferença na vida das pessoas. Meu código busca sempre equilibrar qualidade técnica com impacto social."
 
