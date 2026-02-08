@@ -109,6 +109,7 @@ Arquitetura de software
 <p>
 ✨ Minha Filosofia
 "Acredito que tecnologia deve ser simples, eficiente e fazer a diferença na vida das pessoas. Meu código busca sempre equilibrar qualidade técnica com impacto social."
+  
 <div align="center">
 Obrigado por visitar meu perfil!
 ⭐ Deixe uma estrela nos projetos que gostar!
