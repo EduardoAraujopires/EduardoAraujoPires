@@ -103,13 +103,12 @@ Microserviços
 Arquitetura de software
 <p>
 📞 Contato: 11982351727
-💼 LinkedIn: Eduardo Araújo Pires
+💼 LinkedIn: www.linkedin.com/in/eduardoaraujopires
 📧 Email: eduaraujopires370@gmail.com
 🐙 GitHub: EduardoAraujoPires
 <p>
 ✨ Minha Filosofia
 "Acredito que tecnologia deve ser simples, eficiente e fazer a diferença na vida das pessoas. Meu código busca sempre equilibrar qualidade técnica com impacto social."
-
 <div align="center">
 Obrigado por visitar meu perfil!
 ⭐ Deixe uma estrela nos projetos que gostar!
