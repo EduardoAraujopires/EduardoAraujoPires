@@ -72,7 +72,7 @@ API REST protegida
 <h2>ETEC de Itaquaquecetuba</h2>
 <h2>Curso: Técnico em Informática </h2>
 
-<h2>Tecnologo em Analise e desenvolvimento de sistemas na FAM (Faculdade das américas)
+<h2>Tecnólogo em Analise e desenvolvimento de sistemas na FAM (Faculdade das américas)
   Período: 2026 - 2028
 </h2>
 
