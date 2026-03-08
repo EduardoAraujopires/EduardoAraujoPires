@@ -70,12 +70,11 @@ API REST protegida
 
 <h1>🎓 Minha Formação </h1>
 <h2>ETEC de Itaquaquecetuba</h2>
-<h2>Curso: Técnico em Informática</h2>
-<h3>Período: 2024 - 2025></h3>
+<h2>Curso: Técnico em Informática, Período: 2024 - 2025</h2>
 
-<h2>Tecnologo em Analise e desenvolvimento de sistemas na FAM (Faculdade das américas)</h2>
-<h3>Período: 2026 - 2028 </h3>
-
+<h2>Tecnologo em Analise e desenvolvimento de sistemas na FAM (Faculdade das américas)
+  Período: 2026 - 2028
+</h2>
 
 TCC: Prato Justo - Plataforma de Doação de Alimentos
 
