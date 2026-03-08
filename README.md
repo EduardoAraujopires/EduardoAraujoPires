@@ -98,13 +98,13 @@ Projetos desafiadores em Java
 Aprender novas tecnologias
 
 📚 Estudando Agora
-Spring Cloud
+Spring avançado
 
 Microserviços
 
 Arquitetura de software
 <p>
-📞 Contato: 11982351727
+
 💼 LinkedIn: www.linkedin.com/in/eduardoaraujopires
 📧 Email: eduaraujopires370@gmail.com
 🐙 GitHub: EduardoAraujoPires
