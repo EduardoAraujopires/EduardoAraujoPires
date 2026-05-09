@@ -1,119 +1,115 @@
-👨‍💻 Eduardo Araújo
-Desenvolvedor Java Backend | Spring Boot
-🎯 Sobre Mim
-Sou um desenvolvedor apaixonado por criar soluções backend robustas e escaláveis. Com foco em Java e Spring Boot, transformo problemas complexos em sistemas eficientes e bem estruturados.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoAraujoPires&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAraujoPires&layout=compact)
+# 👨‍💻 Eduardo Araújo
 
-🛠️ Minhas Tecnologias
-Backend & Frameworks
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50" height="50" /> </div>
-Banco de Dados
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /> </div>
-Ferramentas & DevOps
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" height="50" /> </div>
-Testes & Qualidade
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="50" height="50" /> </div>
-🏆 Projeto Principal
-🍽️ Prato Justo
-Plataforma de Doação de Alimentos | TCC ETEC
+💻 Desenvolvedor Back-End Java | Spring Boot  
+📍 Itaquaquecetuba - SP  
 
-📋 Descrição
-Sistema completo que conecta doadores e receptores de alimentos para combater o desperdício e promover segurança alimentar.
+---
 
-🔧 Tecnologias Utilizadas
-Java 21 - Linguagem principal
+## 🎯 Sobre Mim
+Desenvolvedor backend focado em Java e Spring Boot, com experiência na construção de APIs REST seguras, organizadas e escaláveis.
 
-Spring Boot 3.5 - Framework backend
+Tenho forte interesse em resolver problemas reais através da tecnologia, com projetos que envolvem desde modelagem de banco de dados até implementação de autenticação e regras de negócio.
 
-MySQL 8.0 - Banco de dados
+---
 
-Docker - Containerização
+## 🛠️ Tecnologias
 
-JWT - Autenticação segura
+### 🔹 Backend & Frameworks
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" />
+</div>
 
-🚀 Principais Funcionalidades
-👥 Gestão de Usuários
+### 🔹 Banco de Dados
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</div>
 
-Cadastro de doadores e receptores
+### 🔹 Ferramentas & DevOps
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" />
+</div>
 
-Perfis personalizados
+### 🔹 Testes
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" />
+</div>
 
-Controle de acesso
+---
 
-🤝 Sistema Inteligente
+## 🏆 Projeto em Destaque
 
-Match automático entre doação e necessidade
+### 🍽️ Prato Justo  
+**Plataforma de Doação de Alimentos**
 
-Baseado em localização e preferências
+🔗 [Acessar repositório](https://github.com/EduardoAraujoPires/TCC-_-Prato-Justo)
 
-📊 Dashboard Administrativo
+#### 📌 Sobre o projeto
+Sistema backend completo que conecta doadores e receptores de alimentos, com foco em reduzir desperdício e promover impacto social.
 
-Relatórios e métricas
+#### 🚀 Funcionalidades
+- Cadastro e autenticação de usuários (JWT)
+- Sistema de match entre doação e necessidade
+- Dashboard administrativo com métricas
+- API REST estruturada em camadas
+- Comunicação em tempo real (WebSocket)
 
-Controle completo do sistema
+#### 🛠️ Tecnologias
+- Java 21  
+- Spring Boot  
+- Spring Security (JWT)  
+- JPA / Hibernate  
+- MySQL  
+- Docker  
 
-🔒 Segurança
-
-Autenticação JWT
-
-API REST protegida
+---
 
 ## 📌 Projetos em Destaque
 
 | Projeto | Tecnologias | Status |
-|---------|-------------|--------|
+|--------|------------|--------|
 | [**Prato Justo**](https://github.com/EduardoAraujoPires/TCC-_-Prato-Justo) | Java, Spring Boot, MySQL | ✅ Concluído |
 | [**Back-end Livraria**](https://github.com/EduardoAraujoPires/Aprendendo_Spring_Data_JPA) | Java, JDBC, Docker | 🔄 Em andamento |
-| [**Arquitetura Spring Estudo**](https://github.com/EduardoAraujoPires/arquitetura_Spring) | Java | 📚 Estudo |
+| [**Arquitetura Spring**](https://github.com/EduardoAraujoPires/arquitetura_Spring) | Java | 📚 Estudo |
 
+---
 
+## 🎓 Formação
+- 🎓 Técnico em Informática — ETEC de Itaquaquecetuba  
+- 🎓 Análise e Desenvolvimento de Sistemas — FAM (2026 - 2028)
 
+---
 
-<h1>🎓 Minha Formação </h1>
-<h2>ETEC de Itaquaquecetuba</h2>
-<h2>Curso: Técnico em Informática </h2>
+## 🎯 Objetivos
 
-<h2>Tecnólogo em Analise e desenvolvimento de sistemas na FAM (Faculdade das américas)
-  Período: 2026 - 2028
-</h2>
+### 💼 Buscando
+- Estágio ou vaga Júnior em Back-End Java  
+- Projetos desafiadores com Spring Boot  
 
-TCC: Prato Justo - Plataforma de Doação de Alimentos
+### 📚 Estudando
+- Spring avançado  
+- Microserviços  
+- Arquitetura de software  
 
-Conhecimentos Adquiridos
-Desenvolvimento Backend com Java
+---
 
-APIs REST com Spring Boot
+## 📫 Contato
+💼 LinkedIn: https://www.linkedin.com/in/eduardoaraujopires  
+📧 Email: eduaraujopires370@gmail.com  
+🐙 GitHub: https://github.com/EduardoAraujoPires  
 
-Banco de Dados MySQL
+---
 
-Princípios de Clean Code
+## ✨ Filosofia
+> "Acredito que tecnologia deve ser simples, eficiente e gerar impacto real na vida das pessoas."
 
-Testes Automatizados
+---
 
-🎯 Meus Objetivos
-💼 Buscando
-Estágio em desenvolvimento backend
-
-Projetos desafiadores em Java
-
-Aprender novas tecnologias
-
-📚 Estudando Agora
-  Spring avançado
-
-Microserviços
-
-Arquitetura de software
-<p>
-
-💼 LinkedIn: www.linkedin.com/in/eduardoaraujopires
-📧 Email: eduaraujopires370@gmail.com
-🐙 GitHub: EduardoAraujoPires
-<p>
-✨ Minha Filosofia
-"Acredito que tecnologia deve ser simples, eficiente e fazer a diferença na vida das pessoas. Meu código busca sempre equilibrar qualidade técnica com impacto social."
-  
 <div align="center">
-Obrigado por visitar meu perfil!
-⭐ Deixe uma estrela nos projetos que gostar!
-
+  ⭐ Se gostou dos projetos, deixe uma estrela!  
 </div>
