@@ -8,7 +8,6 @@
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoAraujoPires&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoAraujoPires&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🎯 Sobre Mim
