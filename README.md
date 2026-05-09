@@ -1,9 +1,13 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoAraujoPires&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAraujoPires&layout=compact)
 # 👨‍💻 Eduardo Araújo
 
 💻 Desenvolvedor Back-End Java | Spring Boot  
 📍 Itaquaquecetuba - SP  
+
+---
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoAraujoPires&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoAraujoPires&layout=compact&theme=tokyonight)
 
 ---
 
@@ -47,7 +51,7 @@ Tenho forte interesse em resolver problemas reais através da tecnologia, com pr
 ### 🍽️ Prato Justo  
 **Plataforma de Doação de Alimentos**
 
-🔗 [Acessar repositório](https://github.com/EduardoAraujoPires/TCC-_-Prato-Justo)
+🔗 https://github.com/EduardoAraujoPires/TCC-_-Prato-Justo
 
 #### 📌 Sobre o projeto
 Sistema backend completo que conecta doadores e receptores de alimentos, com foco em reduzir desperdício e promover impacto social.
@@ -55,7 +59,7 @@ Sistema backend completo que conecta doadores e receptores de alimentos, com foc
 #### 🚀 Funcionalidades
 - Cadastro e autenticação de usuários (JWT)
 - Sistema de match entre doação e necessidade
-- Dashboard administrativo com métricas
+- Dashboard administrativo
 - API REST estruturada em camadas
 - Comunicação em tempo real (WebSocket)
 
@@ -73,14 +77,14 @@ Sistema backend completo que conecta doadores e receptores de alimentos, com foc
 
 | Projeto | Tecnologias | Status |
 |--------|------------|--------|
-| [**Prato Justo**](https://github.com/EduardoAraujoPires/TCC-_-Prato-Justo) | Java, Spring Boot, MySQL | ✅ Concluído |
-| [**Back-end Livraria**](https://github.com/EduardoAraujoPires/Aprendendo_Spring_Data_JPA) | Java, JDBC, Docker | 🔄 Em andamento |
-| [**Arquitetura Spring**](https://github.com/EduardoAraujoPires/arquitetura_Spring) | Java | 📚 Estudo |
+| Prato Justo | Java, Spring Boot, MySQL | ✅ Concluído |
+| Back-end Livraria | Java, JDBC, Docker | 🔄 Em andamento |
+| Arquitetura Spring | Java | 📚 Estudo |
 
 ---
 
 ## 🎓 Formação
-- 🎓 Técnico em Informática — ETEC de Itaquaquecetuba  
+- 🎓 Técnico em Informática — ETEC  
 - 🎓 Análise e Desenvolvimento de Sistemas — FAM (2026 - 2028)
 
 ---
@@ -89,19 +93,18 @@ Sistema backend completo que conecta doadores e receptores de alimentos, com foc
 
 ### 💼 Buscando
 - Estágio ou vaga Júnior em Back-End Java  
-- Projetos desafiadores com Spring Boot  
+- Projetos com Spring Boot  
 
 ### 📚 Estudando
-- Spring avançado  
 - Microserviços  
 - Arquitetura de software  
 
 ---
 
 ## 📫 Contato
-💼 LinkedIn: https://www.linkedin.com/in/eduardoaraujopires  
-📧 Email: eduaraujopires370@gmail.com  
-🐙 GitHub: https://github.com/EduardoAraujoPires  
+💼 https://www.linkedin.com/in/eduardoaraujopires  
+📧 eduaraujopires370@gmail.com  
+🐙 https://github.com/EduardoAraujoPires  
 
 ---
 
@@ -111,5 +114,5 @@ Sistema backend completo que conecta doadores e receptores de alimentos, com foc
 ---
 
 <div align="center">
-  ⭐ Se gostou dos projetos, deixe uma estrela!  
+  ⭐ Se gostou dos projetos, deixe uma estrela!
 </div>
